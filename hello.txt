@@ -13,12 +13,3 @@ lllllqqyy
 lllllqqyy
 lllllqqyy
 0000
-lllllqqyy
-<<<<<<< HEAD
-00000
-ppppp
-tianj
-=======
-0000--99--
-ppppp-=============
-tianjia==hhot-fenzhi
